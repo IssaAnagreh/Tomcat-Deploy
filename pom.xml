@@ -17,7 +17,7 @@
   </properties>
 
   <modules>
-    <module>webapp</module>
+    <module>worldNavigator</module>
   </modules>
 
   <build>
