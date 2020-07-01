@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/maven-project.iml" filepath="$PROJECT_DIR$/maven-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorldNavigator.iml" filepath="$PROJECT_DIR$/WorldNavigator.iml" />
       <module fileurl="file://$PROJECT_DIR$/worldNavigator/worldNavigator.iml" filepath="$PROJECT_DIR$/worldNavigator/worldNavigator.iml" />
     </modules>
   </component>

@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="maven-project" target="1.6" />
+      <module name="WorldNavigator" target="1.6" />
       <module name="worldNavigator" target="1.6" />
     </bytecodeTargetLevel>
   </component>
